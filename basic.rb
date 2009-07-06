@@ -19,6 +19,7 @@ db/*.sqlite3
 db/schema.rb
 tmp/**/*
 .DS_Store
+*.tmproj
 doc/api
 doc/app
 config/database.yml

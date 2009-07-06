@@ -1,5 +1,6 @@
 modules = [
   ["basic",   "Do basic setup? (only exclude this if you already have a Rails app skeleton with Rails 2.3+ frozen, or as a gem)"],
+  ["textmate",   "Setup a textmate project?"],
   ["rspec",   "Use RSpec instead of test/unit?"],
   ["haml",    "Use haml for views and sass for css?"],
   ["jquery",  "Use jQuery instead of Prototype + Script.aculo.us?"],
